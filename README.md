@@ -1,7 +1,7 @@
 ## 📖 Sobre
 Clone do Netflix !!!
 
-<a href="https://imgur.com/a/KJCaXAC"><img src="https://https://https://i.imgur.com/b1E6QqF.png" title="source: imgur.com" /></a>
+<a href="https://https://i.imgur.com/b1E6QqF.png"><img src="https://i.imgur.com/b1E6QqF.png" title="source: imgur.com" /></a>
 
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
